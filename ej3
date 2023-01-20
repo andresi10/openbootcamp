@@ -1,0 +1,14 @@
+//Crear una función con tres parámetros que sean números que se suman entre sí.
+// Llamar a la función en el main y darle valores.
+public class main {
+    public class main(){
+        sumar(10,30);
+        
+        public static int sumar (int a, int b){
+            int resultado = a+b;
+            return resultado;
+            System.out.println(resultado)
+        }
+        
+}
+}
